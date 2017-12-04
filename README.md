@@ -45,24 +45,11 @@ Stuff that you're not allowed to bring on a plane or otherwise need to send via 
 
 
 ### Items that are explicitly forbidden to bring on a plane
-- Ammunition
-- Fireworks
-- Explosives
 - Lighter benzine
 - Lighter gas (Butane)
 - Matches
 - Lighters (*only* allowed in hand luggage)
-- Butane cartridges
-- Propane cartridges
-- Radioactive medication
-- Toxics
 - Lead acid batteries
-- Mercury (Quecksilber)
-- Acids
-- Bleach
-- Peroxides
-- Samsung Galaxy Note 7
-- Self Balancing Scooters (Hoverboards)
 - (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
 
 
@@ -85,7 +72,6 @@ This applies to the Congress Center as well as your hotel windows.
 
 
 ### Documents
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents! [Was ist als Identifizierungskarte zugelassen?][41].)
 - Congress tickets (printed or digital. iOS passbook/wallet, PDF)
   - have them ready before your line up at the cash desk!
 - Passport or other kind of photo ID (Personalausweis)
@@ -136,7 +122,6 @@ Event and location related emergency information is in a seperate document for t
 - Flip Flops for shared showers
 - Shampoo (to avoid bad hair days)
 - Conditioner
-- Tampons
 - Sanitary towels
 - Condoms, dental dams and other protective gear (Make sure the condoms are not beyond their usage date! (Yes, it really happens…))
 - Lubricant (silicone or water based, to be compatible with condoms)
@@ -147,21 +132,11 @@ Event and location related emergency information is in a seperate document for t
 - Hair-band (Zopfringerl) to tame your mane
 - Handkerchiefs
 - Towel. Never hitchhike the Galaxy without one.
-- Contact lenses
-	- cleaning fluid
-	- contact lens container (make sure it fits flight regulations for fluids if you travel by plane.)
-	- replacement contact lenses
-	- replacement glasses
-	- eye drops
-- Glasses
-	- Spectacle case
-	- Cleaning cloth
 - Oropax or other things to plug into your ears for a good “night”'s sleep.
 - Hair dryer (in case your place/hotel doesn't supply one)
 
 
 ### Cosmetics
-- Make up
 - Nail polish, also handy to secure screws on your laptop and have a tamper indicator, especially when using one with glitter.
 - Nail polish remover
 - Nail scissors
@@ -169,11 +144,8 @@ Event and location related emergency information is in a seperate document for t
 - Razor (with spare blades / plus cable/charger if it is an electrical one)
 - Shaving soap
 - Shaving brush
-- Lipstick/lipgloss
-- Lipbalm
 - Tweezers
 - Cotton swabs (Wattestäbchen)
-- Make up remover pads
 - Skin care
 
 
@@ -244,21 +216,11 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 
 
 - Charger for laptop
-	- Mac: small Duck-head and long ([Schuko Plug][6]) cord
-	- Mac: MagSafe to MagSafe 2 Adapter
-	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers
-    - Mac: USB-C type connector/charger
-- Plug adaptor from your country of origin to [Schuko Plug][6]
+	- Plug adaptor from your country of origin to [Schuko Plug][6]
 - 3x to 10x multi-plug power extension (230V AC @50Hz) with [Schuko Plug][6] (and optional switch, hotel rooms usually suffer from severe lack of outlets)
 - Simple extension cord (230V AC @50Hz, [Schuko Plug][6], the power outlet in your hotel room may be far away from your bedside)
 - Chargers for all those phones, or at least matching cables if you can charge over USB.
-	- iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPhone 4S, iPad, iPad 2, iPad 3 (The new iPad)
-		- USB-A to 30 Pin dock connector (one each)
-	- iPhone 5, iPhone 5S, iPhone 6, iPhone 6+, iPhone 6S, iPhone 6S+, iPhone SE, iPhone 7, iPhone 7+, iPad 4, iPad mini, iPad mini 2 with retina display, iPad mini 3, iPad mini 2, iPad Air, iPad Air 2, iPad mini 4, iPad Pro
-		- USB-A to Lightning (one each)
-	- most Android phones (and other exotic stuff like WP, Firefox OS, etc)
-		- micro USB cable, or
-        - USB-C cable (to USB A or USB-C)
+    - smartphones
     - DECT phones
         - Charging cradle (with power brick if required)
 - Smart Watches
@@ -311,24 +273,6 @@ Keep in mind that USB-C *only* refers to the connector, not the charging, signal
 Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable actually supports.
 
 - USB-C from or to micro USB adapter (To charge a phone or laptop from a powerbank)
-- USB-C to mini USB cable to connect to a micro controller or serial adapter (like FTDI)
-- USB-C cable (Check if it does 5Gbit/s or 10Gbit/s USB. It doesn't have to, but helps to *know* before you troubleshoot an issue for hours.)
-- USB-C adapter to
-    - USB-A
-    - HDMI/DVI/VGA
-    - Audio jack
-    - Ethernet (RJ45)
-- USB-C docking station (and power supply if necessary)
-- Razer Core
-- USB-C multiport switch
-
-
-##### Thunderbolt
-- Thunderbolt 3 (with USB-C connector) to Thunderbolt 1/2. (These adapters do *not* carry Mini Displayport signals, you cannot cascade a Mini Displayport to some video standard adapter. Well, you can, but it won't work.)
-- Thunderbolt 1/2 cable
-- Thunderbolt 3 cable (with USB-C connectors)
-- PCI Break out Box
-
 
 ##### Serial
 - RS232 cable (DB9, DB25)
@@ -349,13 +293,6 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - IDE, ATA cable
 
 
-##### Firewire (IEEE 1394 A/B)
-- Firewire 400
-- Firewire 800
-- Firewire 400 <-> 800
-- Firewire 400 (6pin to 4pin)
-
-
 ##### Networking (wired and wireless)
 - RJ45 Ethernet adapter (from USB-A, USB-C or Thunderbolt) to access the wired network. Thanks for not leeching on the WiFi!
 - Antenna wire for WiFi or ham radio equipment
@@ -366,13 +303,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 
 
 ##### Audio
-- 3.5mm jack splitter (so you can watch a movie or talk recording together on the train)
-- Lightning to 3.5mm audio jack adapter
-- USB-C to 3.5mm audio jack adapter
-- XLR to large audio jack
-- XLR gender changer or coupler
-- Large or 3.5mm audio jack to cinch/RCA
-- S/PDIF or Toslink optical cables
+- audio shuriken
 
 
 #### Mobile and Communications
@@ -380,7 +311,6 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- Mobile phone (GSM) one each
 		- for your day-to-day SIM card
 		- for an optional SIM card of the country you travel to
-		- for a local GSM network at the venue,
 	- DECT phone (for the local wireless phone network avilable at many CCC events)
         - Be sure to register your extension number at [Eventphone][2] prior to the event.
         - Check if your DECT model is [compatible with Eventphone][31]
@@ -401,22 +331,9 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- Card reader to import pictures (if your laptop doesn't have a matching built-in card reader)
         - the necessary cable/adapter to connect that Card reader.
 	- Camera bag
-	- Camera strap
 	- Lenses with lens caps
 	- Lens cleaning cloth
-	- External Flash
-        - Batteries, Battery Pack
-        - Charger for those as well
-- Tripod or Monopod
 
-
-#### Talk gear
-- Monitor adapters (VGA, DVI, HDMI, mini Displayport/Displayport, USB-C; especially for the Mac users and those with other fancy slim laptops. ;-) ), you may need them for your presentation or lightning talk.
-- Remote control for your presentation / lightning talk (also check the batteries in the remote), dont' forget the USB dongle if your remote requires one
-- Infrared, Bluetooth or radio remote (for presentations) and also check their batteries
-
-#### Podcast Gear
-- Headset or microphone & headphones, your laptop and/or a recording device (incl. charging cable or extra batteries - you really did charge them all, right?), connector cables.
 
 #### CCC originated Hardware
 - [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
@@ -430,10 +347,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - [Pineappleboard][24]
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - Headlamp
-- LED throwies
-- Tesla coils
-- Chocolate Fountain
-- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
+- LED throwies- Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
 - replacement plush cushions for headphones
 - Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
@@ -458,8 +372,6 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Winkekatze, there are Operators on site
 - Rubber ducks
 - NERF guns and ammuntion
-- Musical instruments (guitar, trumpet, grand piano, theremin, laser harp, cajón, gameboy, ukulele, tesla coils)
-- Electronic Tuner (with fresh batteries)
 - Cable ties
 - A Slinky for the escalators
 - Duct tape or gaffer tape (vital)
@@ -473,29 +385,6 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
 
-## If you travel with your dog
-Please check in advance if dogs are allowed at the event you want to attend. Guide dogs are usually exempt, even if dogs are not allowed.
-- Blanket
-- Food (wet & dry, Snacks)
-- Containers for water and food
-- Brush
-- Tick forceps / tick tweezers
-- Backup leash
-- Medication
-- The dog *duh*
-- Paperwork, guide dog license (just in case someone gets annoyingly picky)
-
-
-## Camp
-- Tent
-- Sleeping bag & pillow
-- Air-matress
-- Water proof clothing
-- 230V/16A(*blue*)-to-your-country adaptor & extension (single phase)
-- 230V/32A(*red*)-to-your-country adaptor & extensions (3-phase)
-- Cat5e extension cable (10-100m)
-- Food
-- Bin bags (for rubbish and dirty clothes)
 
 
 ### Schedule
@@ -535,7 +424,7 @@ Check that _all_ your server services are using proper TLS. See [bettercrypto.or
 
 
 ### VPN tunnel
-Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!  
+Have at least one trusted, working and tested VPN endpoint available for tunneling out of the congress network. If you don't have your own VPN server at your disposal ask friends you trust to help you out. If you do, ask your friends if they need a VPN endpoint and share!
 
 - [OpenVPN][16]
 - L2TP/IPSec/IKEv2
@@ -726,4 +615,3 @@ These people have contributed to improve this list for everyone (in no particula
 [142]:https://cryto.net/~joepie91
 [143]:https://github.com/The-Compiler
 [144]:https://twitter.com/Columbia19
-

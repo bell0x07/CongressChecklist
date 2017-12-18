@@ -33,31 +33,9 @@ You'll also find a list of all the nice humans who have contributed to this list
 - You might want to empty your drives to make room for some COMPLETELY LEGAL media files that might be shared.
 - Put your name on your stuff, especially on things you’ll likely lend to someone (power strips, cables etc). Twitter handles make excellent name tags because people know how to contact you right away. Prefer permanent markers over stickers, for theft reasons.
 - You DID make backups of all your devices, didn't you? That includes portable computers, servers, mobile phones, tablets, navigation devices, wrist watches and all your other $gadgets.
-- Store the backups not only on the device your backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
+- Store the backups not only on the device you are backing up or another device you’re taking with you. A swiss bank locker is good, if you have one.
 - Send a pull request to this list for all the things I did not think of.
-- Feed the guinea pigs.
-- Water your plants.
 - (optional but recommended) Create account in the [congress wiki][12], [add your projects][13] and [find your assembly][14].
-
-
-## Things to send
-Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
-
-
-### Items that are explicitly forbidden to bring on a plane
-- Lighter benzine
-- Lighter gas (Butane)
-- Matches
-- Lighters (*only* allowed in hand luggage)
-- Lead acid batteries
-- (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
-
-
-### Not allowed or often problematic on flights, or at least not in hand-lagguage
-- All kind of blades
-  - Knives, even small pocket knives
-- Lockpicking equipment
-- Handcuffs
 
 
 ### Items *only* allowed to be carried *on your body*, but *neither* in checked in luggage nor hand-lagguage.
@@ -171,12 +149,6 @@ Check the expiry date of the meds you bring.
 - Bepanthen
 
 
-#### Personal medication
-Your personal medication does not belong on the public interwebs for your privacy. This is just a reminder to pack it. Please do not include your personal medications in pull requests. :-)
-If you need refrigeration for your personal medication, that is possible at the [C3 CERT][38]on site.
-Pack some reserves of your medication. Better to have too much than not enough with you ;-)
-Some meds require papers to be allowed legally in some countries, don't forget those to spare yourself unnecessary hassle by authorities. In Germany these are all drugs listed in [Appendix III](44) to the [Betäubungsmittelgesetz](45) (e.g. ritalin, medical uses of marihuana). You need [this form](46), filled out and signed by your local doctor.
-
 ### Clothing
 Come as you are, as a friend
 
@@ -195,10 +167,8 @@ Come as you are, as a friend
 - Bag to separate laundry from clean clothes in your luggage
 - Gloves
 - Fancy shoes
-- Your favorite chainmail body armor
 - Scarf
 - Swim suit, bikini, trunks (in case your hotel has a pool or you like diving in a ball pit)
-- Evening gown
 - Cosplay is welcome
 - Tailcoat or suit, maybe including a top hat
 - Utility belt for your DECT phone, some coins and whatever you carry with you the whole day.
@@ -246,7 +216,6 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 
 
 #### Wireless and HF
-- SDR Equipment: HackRF, RTL-SDR, Ettus, [Rad1o badge][30]
 - DVB-T dongle, there might be local DVB-T transmitter for the streams,
 - Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information for Germany][35]
     - Your ham radio license (Amateurfunklizenz)
@@ -282,10 +251,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
     - f/m
     - m/m
     - f/f
-- RJ11 to connect to an analog modem or DSL line
-- TAE to RJ11 adapter or cable to connect to a phone network outlet (There are different TAE plugs for Germany and Austria which are not interchangable)
 - SATA, eSATA cables
-- Your trusty VT100
 
 
 ##### Parallel
@@ -335,22 +301,14 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- Lens cleaning cloth
 
 
-#### CCC originated Hardware
-- [r0cket][4], fully charged (needs a micro USB cable for charging/programming)
-- [Rad1o badge][30]
-- [Datenklo][37]
-
 
 #### Other
 - Cat5 o'nine tails
 - [Throwing star LAN Tap][25]
-- [Pineappleboard][24]
 - Torch (Have spare batteries or rechargeables and a matching charger that works with 230V≈ @50Hz)
 - Headlamp
 - LED throwies
 - Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
-- replacement plush cushions for headphones
-- Neck cushion (for long journeys)
 - All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
 	- + cables + SD-cards (+ GPIO equipment)
 	- + extra WiFi antenna (USB) and/or extra Ethernet cord
@@ -370,13 +328,8 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Any other tools you may need (even if unlikely)
 - Analog notebook (dead tree style)
 - Pen, pencil, quill
-- Winkekatze, there are Operators on site
 - Rubber ducks
-- NERF guns and ammuntion
-- Cable ties
-- A Slinky for the escalators
 - Duct tape or gaffer tape (vital)
-- Knitting/sewing needles and yarn (for guerrilla knitting/yarn bombing)
 - More cable ties, maybe in a different colour
 - A blanket
 - A pillow (and sleeping bag/camping mat if you intend to sleep at the gym or in heaven)

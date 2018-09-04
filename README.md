@@ -8,6 +8,8 @@ This list is irregularly updated (and pushed). You may want to refresh regularly
 
 If you're attenting a camping event, with the great outdoors, evil daystar and foliage, you'll also want to check out [@Columbia19][144]'s [Camping-Checklist][43] in addition!
 
+This list is a fork of MacLemon's one, it contains edits made by me to better suit my needs and wills.
+
 ---
 
 

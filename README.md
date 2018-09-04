@@ -148,7 +148,7 @@ Check the expiry date of the meds you bring.
 - Caffeine pills (In case you don't like Mate and nobody knows if you can actually drink the “coffee” served at the venue.)
 - Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
 - Camomile tea relives hyperacidity very well
-- Bepanthen
+- Bepanthen/sudocrem
 
 
 ### Clothing
@@ -194,7 +194,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 - Chargers for all those phones, or at least matching cables if you can charge over USB.
     - smartphones
     - DECT phones
-        - Charging cradle (with power brick if required)
+        - ~~Charging cradle (with power brick if required)~~ AA/AAA VINNINGE charger from IKEA is smaller and more universal(USB)
 - Smart Watches
     - Charging cable or docking station required to charge
 - A portable battery pack (aka powerbank) so you can charge on the go. (And the necessary cable to recharge that battery pack overnight. A USB-A to micro USB cable in most cases, maybe already a USB-C cable as well.)
@@ -213,12 +213,12 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map][40]
 	- USB/Thunderbolt/USB-C to Ethernet RJ45 adapter, if your device needs one (for example thin notebooks)
 - Mass storage devices (bring some empty ones to fill with data and/or bring your own data and share it!)
 - Tablet computer, iPad, Android tablet, Microsoft surface
-- Kindle
+- ~~Kindle~~ (more hackable ;p)
 - An actual book (for those offline blackout moments), see [B.O.O.K.][32]
 
 
 #### Wireless and HF
-- DVB-T dongle, there might be local DVB-T transmitter for the streams,
+- DVB-T dongle, there might be local DVB-T transmitter for the streams, also sometimes doubles as SDR
 - Ham radio equipment, portable, the callsign prefix for CEPT licence holders in Germany is DL (Delta Lima), and DO (Delta Oscar) for CEPT-Novice licensees. Also see [ham radio licensing information for Germany][35]
     - Your ham radio license (Amateurfunklizenz)
 - WiFi router/firewall (to connect to the hotel Wifi/network)
@@ -254,6 +254,13 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
     - m/m
     - f/f
 - SATA, eSATA cables
+
+##### DevKits/MCU
+  - arduino (any amount)
+  - digispark (any amount)
+  - random sensors and modules
+  - LEDs and other electronic components
+  - Raspberry Pi
 
 
 ##### Parallel
@@ -311,9 +318,7 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 - Headlamp
 - LED throwies
 - Headphones (Closed type) (so you don't have to talk to other carbon units while traveling)
-- All your devices!!1 ((Raspberry|Orange|Banana) Pi, Arduino, FreedomBox, DreamPlug, …)
-	- + cables + SD-cards (+ GPIO equipment)
-	- + extra WiFi antenna (USB) and/or extra Ethernet cord
+- misc    
     - + WiFi Dongle (USB)
     - + USB Keyboard
     - + USB Rodent
@@ -340,6 +345,13 @@ Check out the [USB-C cable matrix][36] on what a certain manufacturer's cable ac
 	- reusable coffee mug to get your coffee @[coffeenerds](39) as environment friendly as possible!
 - a thermo travelling mug for coffee-nerds, cocoa addicts, ...
 - All the stickers to trade and give away!
+
+##### Addictions ;p
+- E-ciggarete
+- spare batteries
+- charger for batteries (to charge spares)
+- cotton, coils wire
+- liquids/liquid making ingredients
 
 
 
